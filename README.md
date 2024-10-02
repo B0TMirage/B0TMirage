@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @B0TMirage;
 - 👀 I’m interested in 📟Game Development and 💻Web Developing;
-- 🌱 I’m currently learning HTML and CSS;
+- 🌱 I’m currently learning C#;
 - 💞️ I’m looking for cooperation with large companies;
