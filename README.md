@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @B0TMirage;
-- 👀 I’m interested in 📟Machine Learning and 💻Web Developing;
+- 👀 I’m interested in 📟Game Development and 💻Web Developing;
 - 🌱 I’m currently learning HTML and CSS;
 - 💞️ I’m looking for cooperation with large companies;
-- 📫 How to reach me: MiragePR22@gmail.com;
