@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @B0TMirage;
-- 👀 I’m interested in 📟Game Development and 💻Web Developing;
-- 🌱 I’m currently learning C#;
-- 💞️ I’m looking for cooperation with large companies;
+- 👋 Hi, my name is Egor and I’m @B0TMirage;
+- 👀 I'm interested in learning something new;
+- 🌱 I’m currently learning ... a lot of things;
+- 💞️ I'm looking for a way to code my operating system to gain a new experience.
